@@ -1,6 +1,5 @@
 class Main {
     public static void main(String[] args) {
-	//Creamos objeto asdaf
 	SumaDosNumeros Suma = new SumaDosNumeros();
 	int n1,n2;
 	n1 = Integer.parseInt(args[0]);
